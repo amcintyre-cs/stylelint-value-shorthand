@@ -1,6 +1,6 @@
 const assign = require('object-assign');
 const stylelint = require('stylelint');
-const ruleName = 'value-shorthand';
+const ruleName = 'plugin/value-shorthand';
 const messages = stylelint.utils.ruleMessages(ruleName, {});
 
 const arrayContains = (searchItem, array) =>

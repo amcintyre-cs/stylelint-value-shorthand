@@ -58,7 +58,7 @@ As follows:
     "stylelint-value-shorthand"
   ],
   "rules": {
-    "value-shorthand": true
+    "plugin/value-shorthand": true
   }
 };
 ```
